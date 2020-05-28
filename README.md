@@ -4,7 +4,7 @@ Assignment on Logistic Regression
 ## Language Used
 1. Python
 
-##Libraries Used
+## Libraries Used
 1. pandas
 2. matplotlib
 3. seaborn
